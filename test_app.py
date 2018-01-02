@@ -5,7 +5,7 @@ from Mycalc import multiply
 from Mycalc import divide
 
 def test_add():
-	assert add(3, 4) == 8
+	assert add(4, 4) == 8
 	assert add(22, 10) == 32
 
 def test_subtract():
