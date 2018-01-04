@@ -1,2 +1,2 @@
-# SWE2016
-Code for Software Engineering 2016.
+# SWE2017
+Code for Software Engineering 2017.
